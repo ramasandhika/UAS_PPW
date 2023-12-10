@@ -17,8 +17,8 @@ def main():
 
     with col2:
         st.subheader("Aplikasi Kategori untuk Berita")
-        st.caption("Berita umumnya dikategorikan menjadi beberapa jenis category yaitu Ekonomi Bisnis, Hukum dan Kriminal, Pendidikan. Dengan news classification ini kita dapat menemukan jenis kategori berita yang sesuai dengan isi berita tersebut.")
-
+        st.caption("Nama : LUTHVI RAMASANDHIKA YUSTIADI")
+        st.caption("NIM : 200411100132")
     news_text = st.text_area(
         "Masukkan Isi Berita", key="input_text", height=250)
 
