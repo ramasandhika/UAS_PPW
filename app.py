@@ -16,7 +16,7 @@ def main():
         st.image("assets/banner.png", use_column_width=True)
 
     with col2:
-        st.subheader("Aplikasi Kategori untuk Berita")
+        st.subheader("Aplikasi Untuk Prediksi Kategori Berita")
         st.caption("Nama : LUTHVI RAMASANDHIKA YUSTIADI")
         st.caption("NIM : 200411100132")
     news_text = st.text_area(
